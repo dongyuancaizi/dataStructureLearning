@@ -63,7 +63,6 @@ public class ArrayQueueDemo {
 }
 
 //使用数组模拟队列--编写一个ArrayQueue的类
-
 class ArrayQueue {
     /**
      * 数组的最大容量

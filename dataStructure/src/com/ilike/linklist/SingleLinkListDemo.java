@@ -51,8 +51,6 @@ public class SingleLinkListDemo {
         reverse(linkList.getHead());
         System.out.println("输出反转后的结果");
         linkList.show();*/
-
-
     }
 
     /**
