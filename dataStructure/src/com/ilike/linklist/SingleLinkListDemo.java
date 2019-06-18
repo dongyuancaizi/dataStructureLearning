@@ -182,7 +182,6 @@ class SingleLinkList {
         while (true) {
             //找到链表的最后
             if (temp.next == null) {
-                temp.next = heroNode;
                 break;
             }
             //如果没有找到最后，就将temp后移

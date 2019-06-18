@@ -14,61 +14,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ilike/linklist/DoubleLinkedListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            <state relative-caret-position="736">
+              <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
               <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ilike/linklist/SingleLinkListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="72" column="8" lean-forward="true" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+            <state relative-caret-position="115">
+              <caret line="224" lean-forward="true" selection-start-line="193" selection-start-column="2" selection-end-line="224" />
               <folding>
-                <element signature="e#1796#1797#0" expanded="true" />
-                <element signature="e#1822#1823#0" expanded="true" />
+                <element signature="e#4313#4314#0" expanded="true" />
+                <element signature="e#4340#4341#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ilike/sparsearray/SparseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ilike/queue/ArrayQueueDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="e#2554#2555#0" expanded="true" />
-                <element signature="e#2596#2597#0" expanded="true" />
-                <element signature="e#2660#2661#0" expanded="true" />
-                <element signature="e#2696#2697#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ilike/queue/CircleArrayQueueDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -82,18 +49,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/ilike/SparseArray.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/sparsearray/queue/ArrayQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/sparsearray/SparseArray.java" />
-        <option value="$PROJECT_DIR$/src/com/ilike/queue/ArrayQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/queue/CircleArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/queue/CircleArrayQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/linklist/SingleLinkList.java" />
+        <option value="$PROJECT_DIR$/src/com/ilike/queue/ArrayQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/linklist/SingleLinkListDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ilike/linklist/DoubleLinkedListDemo.java" />
       </list>
     </option>
   </component>
@@ -104,17 +75,19 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="985" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,11 +113,49 @@
               <item name="ilike" type="462c0819:PsiDirectoryNode" />
               <item name="linklist" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ilike" type="462c0819:PsiDirectoryNode" />
+              <item name="linklist" type="462c0819:PsiDirectoryNode" />
+              <item name="DoubleLinkedListDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ilike" type="462c0819:PsiDirectoryNode" />
+              <item name="linklist" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleLinkListDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ilike" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ilike" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayQueueDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ilike" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="CircleArrayQueueDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -174,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleLinkListDemo">
+  <component name="RunManager" selected="Application.DoubleLinkedListDemo">
     <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ilike.queue.ArrayQueueDemo" />
       <module name="dataStructure" />
@@ -194,6 +205,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ilike.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ilike.linklist.DoubleLinkedListDemo" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ilike.linklist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,9 +253,11 @@
       <item itemvalue="Application.ArrayQueueDemo" />
       <item itemvalue="Application.CircleArrayQueueDemo" />
       <item itemvalue="Application.SingleLinkListDemo" />
+      <item itemvalue="Application.DoubleLinkedListDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleLinkedListDemo" />
         <item itemvalue="Application.SingleLinkListDemo" />
         <item itemvalue="Application.CircleArrayQueueDemo" />
         <item itemvalue="Application.ArrayQueueDemo" />
@@ -250,16 +276,19 @@
       <updated>1560655731855</updated>
       <workItem from="1560655735749" duration="19943000" />
       <workItem from="1560753675922" duration="11527000" />
+      <workItem from="1560772578941" duration="530000" />
+      <workItem from="1560860698795" duration="5028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31470000" />
+    <option name="totallyTimeSpent" value="37028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15013404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1541555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -268,8 +297,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33991536" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3638928" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33898306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36299434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -312,19 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ilike/queue/ArrayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#2554#2555#0" expanded="true" />
-            <element signature="e#2596#2597#0" expanded="true" />
-            <element signature="e#2660#2661#0" expanded="true" />
-            <element signature="e#2696#2697#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ilike/queue/CircleArrayQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -332,13 +348,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ilike/queue/ArrayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ilike/linklist/SingleLinkListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="72" column="8" lean-forward="true" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        <state relative-caret-position="115">
+          <caret line="224" lean-forward="true" selection-start-line="193" selection-start-column="2" selection-end-line="224" />
           <folding>
-            <element signature="e#1796#1797#0" expanded="true" />
-            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#4313#4314#0" expanded="true" />
+            <element signature="e#4340#4341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ilike/linklist/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
           </folding>
         </state>
       </provider>
