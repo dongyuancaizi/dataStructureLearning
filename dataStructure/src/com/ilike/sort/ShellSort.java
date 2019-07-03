@@ -32,7 +32,6 @@ public class ShellSort {
      *    对交换式的希尔排序进行改进->移位法
      */
     public static void shellSort3(int [] arr){
-
         //增量的gap ,并逐步的缩小增量
         for (int gap = arr.length/2; gap >0 ; gap/=2) {
           //从第gap个元素，逐个对其所在的组进行直接插入
@@ -47,8 +46,6 @@ public class ShellSort {
                     }
                     //当退出while后，就给temp找到了插入的位置
                     arr[j]=temp;
-
-
                 }
             }
         }
