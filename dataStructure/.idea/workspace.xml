@@ -20,13 +20,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/BinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="140">
               <caret line="146" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="146" selection-end-column="1" />
+=======
+            <state relative-caret-position="285">
+              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-664">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="690">
@@ -42,6 +60,30 @@
                 <element signature="e#717#718#0" expanded="true" />
                 <element signature="e#764#765#0" expanded="true" />
                 <element signature="e#806#807#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/com/ilike/huffmantree/HuffmanTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ilike/sort/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="42" column="24" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="45" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
               </folding>
             </state>
           </provider>
@@ -93,9 +135,14 @@
         <option value="$PROJECT_DIR$/src/com/ilike/hashtab/HashTabDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/search/FibonacciSearch.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/tree/BinaryTreeDemo.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/ilike/tree/ArrBinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/tree/ThreadedBinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.java" />
+=======
+        <option value="$PROJECT_DIR$/src/com/ilike/tree/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/com/ilike/huffmantree/HuffmanTree.java" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
       </list>
     </option>
   </component>
@@ -143,7 +190,7 @@
               <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ilike" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="huffmantree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -172,7 +219,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/sike01/edulive" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -194,6 +247,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.ThreadedBinaryTreeDemo">
     <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ilike.tree.ArrBinaryTreeDemo" />
@@ -201,19 +255,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ilike.tree.threadedBinaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+=======
+  <component name="RunManager" selected="Application.HuffmanTree">
     <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ilike.tree.BinaryTreeDemo" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ilike.tree.threadedBinaryTree.*" />
+          <option name="PATTERN" value="com.ilike.tree.*" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,7 +276,11 @@
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
+          <option name="PATTERN" value="com.ilike.tree.threadedBinaryTree.*" />
+=======
           <option name="PATTERN" value="com.ilike.search.*" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +301,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ilike.tree.HeapSort" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ilike.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="ThreadedBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ilike.tree.threadedBinaryTree.ThreadedBinaryTreeDemo" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ilike.tree.threadedBinaryTree.*" />
+=======
+    <configuration name="HuffmanTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ilike.huffmantree.HuffmanTree" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ilike.huffmantree.*" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,6 +340,7 @@
       <item itemvalue="Application.FibonacciSearch" />
       <item itemvalue="Application.HashTabDemo" />
       <item itemvalue="Application.BinaryTreeDemo" />
+<<<<<<< HEAD
       <item itemvalue="Application.ArrBinaryTreeDemo" />
       <item itemvalue="Application.ThreadedBinaryTreeDemo" />
     </list>
@@ -271,6 +348,15 @@
       <list>
         <item itemvalue="Application.ThreadedBinaryTreeDemo" />
         <item itemvalue="Application.ArrBinaryTreeDemo" />
+=======
+      <item itemvalue="Application.HeapSort" />
+      <item itemvalue="Application.HuffmanTree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HuffmanTree" />
+        <item itemvalue="Application.HeapSort" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
         <item itemvalue="Application.BinaryTreeDemo" />
         <item itemvalue="Application.HashTabDemo" />
         <item itemvalue="Application.FibonacciSearch" />
@@ -310,12 +396,20 @@
       <workItem from="1563282611350" duration="6184000" />
       <workItem from="1563366933006" duration="5634000" />
       <workItem from="1563459412083" duration="1732000" />
+<<<<<<< HEAD
       <workItem from="1563541866670" duration="4815000" />
+=======
+      <workItem from="1563677902515" duration="14003000" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="134974000" />
+=======
+    <option name="totallyTimeSpent" value="144162000" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -327,9 +421,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.1930295" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.1924307" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.17225201" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +437,11 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.17225201" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.22740114" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16146994" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40254238" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,6 +452,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.45338982" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.042372882" />
+      <window_info anchor="right" id="Translate" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -537,16 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ilike/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="45" column="50" selection-start-line="36" selection-start-column="7" selection-end-line="45" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ilike/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -582,6 +676,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/ArrBinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -591,12 +686,31 @@
             <element signature="e#345#346#0" expanded="true" />
             <element signature="e#567#568#0" expanded="true" />
             <element signature="e#594#595#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/ilike/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="45" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-664">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/BinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="140">
           <caret line="146" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="146" selection-end-column="1" />
         </state>
@@ -617,6 +731,23 @@
             <element signature="e#717#718#0" expanded="true" />
             <element signature="e#764#765#0" expanded="true" />
             <element signature="e#806#807#0" expanded="true" />
+=======
+        <state relative-caret-position="285">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ilike/huffmantree/HuffmanTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
           </folding>
         </state>
       </provider>
