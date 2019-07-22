@@ -20,31 +20,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/BinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="140">
               <caret line="146" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="146" selection-end-column="1" />
-=======
-            <state relative-caret-position="285">
-              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-664">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
->>>>>>> e96394aac60b7ab55883133102a7304a1352d310
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/ilike/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="690">
@@ -135,14 +117,9 @@
         <option value="$PROJECT_DIR$/src/com/ilike/hashtab/HashTabDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/search/FibonacciSearch.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/tree/BinaryTreeDemo.java" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/ilike/tree/ArrBinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/tree/ThreadedBinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ilike/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.java" />
-=======
-        <option value="$PROJECT_DIR$/src/com/ilike/tree/HeapSort.java" />
-        <option value="$PROJECT_DIR$/src/com/ilike/huffmantree/HuffmanTree.java" />
->>>>>>> e96394aac60b7ab55883133102a7304a1352d310
       </list>
     </option>
   </component>

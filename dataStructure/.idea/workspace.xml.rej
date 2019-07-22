@@ -1,0 +1,16 @@
+diff a/dataStructure/.idea/workspace.xml b/dataStructure/.idea/workspace.xml	(rejected hunks)
+@@ -135,9 +135,14 @@
+         <option value="$PROJECT_DIR$/src/com/ilike/hashtab/HashTabDemo.java" />
+         <option value="$PROJECT_DIR$/src/com/ilike/search/FibonacciSearch.java" />
+         <option value="$PROJECT_DIR$/src/com/ilike/tree/BinaryTreeDemo.java" />
++<<<<<<< HEAD
+         <option value="$PROJECT_DIR$/src/com/ilike/tree/ArrBinaryTreeDemo.java" />
+         <option value="$PROJECT_DIR$/src/com/ilike/tree/ThreadedBinaryTreeDemo.java" />
+         <option value="$PROJECT_DIR$/src/com/ilike/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.java" />
++=======
++        <option value="$PROJECT_DIR$/src/com/ilike/tree/HeapSort.java" />
++        <option value="$PROJECT_DIR$/src/com/ilike/huffmantree/HuffmanTree.java" />
++>>>>>>> e96394aac60b7ab55883133102a7304a1352d310
+       </list>
+     </option>
+   </component>
