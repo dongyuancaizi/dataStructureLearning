@@ -1,5 +1,8 @@
 package com.ilike.avl;
 
+/**
+ * AVL树
+ */
 public class AVLTreeDemo {
 
     public static void main(String[] args) {

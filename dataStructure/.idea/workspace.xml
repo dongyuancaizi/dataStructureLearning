@@ -17,41 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ilike/binarysorttree/BinarySortTreeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3749">
-              <caret line="163" selection-start-line="35" selection-start-column="3" selection-end-line="163" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ilike/avl/AVLTreeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ilike/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="92">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#726#727#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#4809#4810#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,18 +126,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ilike" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ilike" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -316,11 +282,12 @@
       <workItem from="1564145529818" duration="3502000" />
       <workItem from="1564382506147" duration="8323000" />
       <workItem from="1564577825224" duration="3126000" />
+      <workItem from="1564663566615" duration="6293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165168000" />
+    <option name="totallyTimeSpent" value="171461000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -334,7 +301,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.20643431" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.20911528" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.17225201" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,7 +310,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.17225201" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7788204" weight="0.2980226" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7788204" weight="0.26553673" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.4477401" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -618,36 +585,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ilike/binarysorttree/BinarySortTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ilike/avl/AVLTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3749">
-          <caret line="163" selection-start-line="35" selection-start-column="3" selection-end-line="163" />
+        <state relative-caret-position="161">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ilike/avl/AVLTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ilike/binarysorttree/BinarySortTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="3220">
+          <caret line="140" column="7" lean-forward="true" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ilike/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="92">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#4809#4810#0" expanded="true" />
           </folding>
         </state>
       </provider>
