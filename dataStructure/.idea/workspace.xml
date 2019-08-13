@@ -20,10 +20,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ilike/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="621">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4771#4772#0" expanded="true" />
                 <element signature="e#4809#4810#0" expanded="true" />
               </folding>
             </state>
@@ -283,11 +284,12 @@
       <workItem from="1564382506147" duration="8323000" />
       <workItem from="1564577825224" duration="3126000" />
       <workItem from="1564663566615" duration="6293000" />
+      <workItem from="1564751399827" duration="487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171461000" />
+    <option name="totallyTimeSpent" value="171948000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -301,7 +303,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.20911528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.21179625" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.17225201" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -601,10 +603,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ilike/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="621">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4771#4772#0" expanded="true" />
             <element signature="e#4809#4810#0" expanded="true" />
           </folding>
         </state>
